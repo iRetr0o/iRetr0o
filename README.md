@@ -11,7 +11,7 @@ helloWord();
 
 ### Sobre Mí
 
-- 🌱 Actualmente estoy aprendiendo las diferentes tecnologías para convertirme en un desarrollador web full-stack.
+- 🌱 Actualmente estoy aprendiendo las diferentes tecnologías para convertirme en un desarrollador web back-end.
 - 📚 Apasionado por la tecnología y las computadoras.
 - 🎓 Estudié ingeniería mecánica en el ITTLA.
 - 🖥 Tengo una carrera técnica en informática.
@@ -21,6 +21,7 @@ helloWord();
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
@@ -31,7 +32,7 @@ helloWord();
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-### Mis Estadisticas de GitHub
+### Estadisticas de GitHub
 
 <a href="http://www.github.com/iretr0o"><img src="https://github-readme-stats.vercel.app/api?username=iretr0o&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&show_icons=true" alt="iretr0o's GitHub stats" /></a>
 
