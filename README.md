@@ -4,7 +4,7 @@
  "role": "Backend Dev",
  "data":
    {
-    "Linkedin": "www.linkedin.com/in/oscar-gtez",
+    "Linkedin": "https://www.linkedin.com/in/oscar-gtez",
     "Twitter": "https://twitter.com/iRetr0o",
     "Instagram": "https://www.instagram.com/oscar_gtez"
    }
