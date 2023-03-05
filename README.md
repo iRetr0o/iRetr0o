@@ -1,58 +1,64 @@
-<h1 align="center">Oscar Gutiérrez <a href="https://twitter.com/iRetr0o"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="32" width="32"></a></h1>
-
-<h3 align="center">He/Him 😁 | Web Developer 💻 | Mexican 🇲🇽</h3>
-
-```javascript
-const helloWord = () => {
-    console.log("Hello! Thanks for visiting my profile");
+```json
+{ 
+  "name": "Oscar Gutierrez",
+  "role": "Backend Dev",
+  "data":
+     {
+       "Linkedin": "www.linkedin.com/in/oscar-gtez",
+       "Twitter": "https://twitter.com/iRetr0o",
+       "Instagram": "https://www.instagram.com/oscar_gtez"
+     }
 }
-helloWord();
 ```
-
-### Sobre Mí
-
-- 🌱 Actualmente estoy aprendiendo las diferentes tecnologías para convertirme en un desarrollador web back-end.
-- 📚 Apasionado por la tecnología y las computadoras.
-- 🎓 Estudié ingeniería mecánica en el ITTLA.
-- 🖥 Tengo una carrera técnica en informática.
-- 📂 Estoy trabajando en mejorar mi portafolio.
-
-<h3 align="left">Tecnologías</h3>
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<h4>Programming Languages</h4>
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Java-5382A1?style=for-the-badge&logo=oracle">
+    
 </p>
+<h4>Frontend Development</h4>
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</p>
+<h4>Backend Development</h4>
+<p>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring-boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=">
+  <img src="https://img.shields.io/badge/Hibernate-7D8A90?style=for-the-badge&logo=hibernate&logoColor=aca69f">
+  <img src="https://img.shields.io/badge/Maven-CC2336?style=for-the-badge&logo=apache-maven&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-3E6E93?style=for-the-badge&logo=mysql&logoColor=white">
+</p>
+<h4>Tools & Technologies</h4>
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Docker-0073EC?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
+  <img src="https://img.shields.io/badge/Codestream-008C99?style=for-the-badge&logo=new-relic&logoColor=white">
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white">
+</p>
+<br/>
 
-### Estadisticas de GitHub
+### 🌱 I’m currently learning ...
+- Advance Javascript / Responsive Design
+- React JS
+<br/>
 
-<a href="http://www.github.com/iretr0o"><img src="https://github-readme-stats.vercel.app/api?username=iretr0o&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&show_icons=true" alt="iretr0o's GitHub stats" /></a>
+### GitHub Stats:
 
-<a href="http://www.github.com/iretr0o"><img src="https://github-readme-streak-stats.herokuapp.com/?user=iretr0o&stroke=ffffff&background=000000&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/iretr0o" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iretr0o&langs_count=10&title_color=84cc16&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<a href="http://www.github.com/iretr0o"><img src="https://activity-graph.herokuapp.com/graph?username=iretr0o&bg_color=000000&color=ffffff&line=facc15&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<!--
-**iRetr0o/iRetr0o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iretr0o&title_color=84cc16&text_color=ffffff&bg_color=1c1917&card_width=450em" alt="Top Languages)](https://github.com/iretr0o" /></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=iretr0o&show_icons=true&hide_border=true&title_color=84cc16&text_color=ffffff&icon_color=facc15&bg_color=1c1917&count_private=true&include_all_commits=true&hide_stars=false" alt="iretr0o's GitHub stats)](http://www.github.com/iretr0o" /></td>
+  </tr>
+  <!--
+  <tr>
+    <td valign="top" colspan="2"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=iretr0o&bg_color=1c1917&color=ffffff&line=facc15&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph)](http://www.github.com/iretr0o" /></td>
+  </tr>
+  <tr>
+    <td valign="top" colspan="2"><img src="https://github-readme-streak-stats.herokuapp.com/?user=iretr0o&stroke=ffffff&background=1c1917&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)](http://www.github.com/iretr0o" /></td>
+  </tr>
+  -->
+</table>
