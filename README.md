@@ -42,7 +42,8 @@
 <br/>
 
 ### 🌱 I’m currently learning ...
-- Advance Javascript / Responsive Design
+- Responsive design
+- Advance Javascript
 - React JS
 <br/>
 
