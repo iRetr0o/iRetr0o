@@ -1,13 +1,13 @@
 ```json
 { 
-  "name": "Oscar Gutierrez",
-  "role": "Backend Dev",
-  "data":
-     {
-       "Linkedin": "www.linkedin.com/in/oscar-gtez",
-       "Twitter": "https://twitter.com/iRetr0o",
-       "Instagram": "https://www.instagram.com/oscar_gtez"
-     }
+ "name": "Oscar Gutierrez",
+ "role": "Backend Dev",
+ "data":
+   {
+    "Linkedin": "www.linkedin.com/in/oscar-gtez",
+    "Twitter": "https://twitter.com/iRetr0o",
+    "Instagram": "https://www.instagram.com/oscar_gtez"
+   }
 }
 ```
 <h4>Programming Languages</h4>
