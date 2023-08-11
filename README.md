@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Docker-0073EC?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
-  <img src="https://img.shields.io/badge/Codestream-008C99?style=for-the-badge&logo=new-relic&logoColor=white">
+  <img src="https://img.shields.io/badge/Codestream-008C99?style=for-the-badge&logo=codestream&logoColor=white">
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white">
 </p>
 <br/>
