@@ -5,13 +5,14 @@
  "data":
    {
     "Linkedin": "https://www.linkedin.com/in/oscar-gtez",
-    "Twitter": "https://twitter.com/iRetr0o",
+    "X": "https://twitter.com/iRetr0o",
     "Instagram": "https://www.instagram.com/oscar_gtez"
    }
 }
 ```
 <h4>Programming Languages</h4>
 <p>
+  <img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Java-5382A1?style=for-the-badge&logo=oracle">
     
@@ -42,9 +43,8 @@
 <br/>
 
 ### 🌱 I’m currently learning ...
-- Responsive design
-- Advance Javascript
-- React JS
+- OOP with Swift
+- SwiftUI
 <br/>
 
 ### GitHub Stats:
