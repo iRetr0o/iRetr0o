@@ -1,7 +1,7 @@
 ```json
 { 
  "name": "Oscar Gutierrez",
- "role": "iOS Dev",
+ "role": "Mobile Dev",
  "data":
    {
     "Linkedin": "https://www.linkedin.com/in/oscar-gtez",
@@ -45,8 +45,7 @@
 </p>
 <br/>
 
-### 🌱 I’m currently learning ...
-- SwiftUI
+### 🌱 I’m currently learning...
 - MVVM
 <br/>
 
