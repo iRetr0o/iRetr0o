@@ -15,7 +15,7 @@
  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white">
  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
- <img src="https://img.shields.io/badge/Java-5382A1?style=for-the-badge&logo=oracle">   
+ <img src="https://img.shields.io/badge/Java-5382A1?style=for-the-badge&logo=openjdk">   
 </p>
 <h4>Frontend Development</h4>
 <p>
@@ -47,20 +47,19 @@
 
 ### 🌱 I’m currently learning...
 - MVVM
+- Swift Data
 <br/>
 
 ### GitHub Stats:
-<table>
- <tr>
-  <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iretr0o&title_color=84cc16&text_color=ffffff&bg_color=1c1917&card_width=450em" alt="Top Languages)](https://github.com/iretr0o" /></td>
-  <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=iretr0o&show_icons=true&hide_border=true&title_color=84cc16&text_color=ffffff&icon_color=facc15&bg_color=1c1917&count_private=true&include_all_commits=true&hide_stars=false" alt="iretr0o's GitHub stats)](http://www.github.com/iretr0o" /></td>
- </tr>
-  <!--
-  <tr>
-    <td valign="top" colspan="2"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=iretr0o&bg_color=1c1917&color=ffffff&line=facc15&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph)](http://www.github.com/iretr0o" /></td>
-  </tr>
-  <tr>
-    <td valign="top" colspan="2"><img src="https://github-readme-streak-stats.herokuapp.com/?user=iretr0o&stroke=ffffff&background=1c1917&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)](http://www.github.com/iretr0o" /></td>
-  </tr>
-  -->
-</table>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=iretr0o&show_icons=true&hide_border=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+ 	/>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=iretr0o&show_icons=true&hide_border=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=iretr0o&show_icons=true&hide_border=true" />
+</picture>
+
